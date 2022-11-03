@@ -6,7 +6,7 @@
 
 ### result
 
-![result](polarized capacitor.png)
+![result](polarized_capacitor.png)
 ![result](capacitor.png)
-![result](constant resistor.png)
-![result](npn transistor.png)
+![result](constant_resistor.png)
+![result](npn_transistor.png)
